@@ -1,0 +1,23 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url("Background.jpeg");
+}
+
+
+mood-widget {
+  position: absolute;
+  top: 1300px; 
+  right: 0px; 
+  
+}
+
+
+time-task-widget {
+  position: absolute;
+  top: 400px; 
+  right: 0px;
+   
+}
